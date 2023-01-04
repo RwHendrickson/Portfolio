@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rob Hendrickson
-description: 
+description: This is my digital portfolio.
 ---
 
 I am a recent graduate of the [Masters of Geographic Information Science (MGIS)](https://cla.umn.edu/mgis/about/program-thats-map) program at the University of Minnesota.

@@ -1,7 +1,7 @@
 ---
 ---
 
-$header-bg-color: #C51A4A !default;
+$header-bg-color: #21C685 !default;
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
     @content;

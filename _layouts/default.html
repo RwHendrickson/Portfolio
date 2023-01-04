@@ -24,8 +24,9 @@
 
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <!-- <img src="images/rpi.svg" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="project-name" /> -->
+      <img src="https://rwhendrickson.github.io/Portfolio/figs/mpls_mobility.png" alt="mpls_mobility" width="200"/>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <a href="https://rwhendrickson.github.io/Portfolio/index">Home</a> ~ <a href="https://rwhendrickson.github.io/Portfolio/about">About</a> ~ <a href="https://rwhendrickson.github.io/Portfolio/projects">Projects</a> ~ <a href="https://rwhendrickson.github.io/Portfolio/resources">Resources</a> ~ <a href="https://rwhendrickson.github.io/Portfolio/contact">Contact</a>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
@@ -35,6 +36,7 @@
       {{ content }}
 
       <footer class="site-footer">
+        <a href="https://rwhendrickson.github.io/Portfolio/index">Home</a> ~ <a href="https://rwhendrickson.github.io/Portfolio/about">About</a> ~ <a href="https://rwhendrickson.github.io/Portfolio/projects">Projects</a> ~ <a href="https://rwhendrickson.github.io/Portfolio/resources">Resources</a> ~ <a href="https://rwhendrickson.github.io/Portfolio/contact">Contact</a>
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %}

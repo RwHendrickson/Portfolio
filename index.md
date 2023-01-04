@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rob Hendrickson
-description: [Home](https://rwhendrickson.github.io/Portfolio/index) ~ [About](https://rwhendrickson.github.io/Portfolio/about) ~ [Project](https://rwhendrickson.github.io/Portfolio/projects) ~ [Resources](https://rwhendrickson.github.io/Portfolio/resources) ~ [Contact](https://rwhendrickson.github.io/Portfolio/contact)
+description: ~
 ---
 
 I am a recent graduate of the [Masters of Geographic Information Science (MGIS)](https://cla.umn.edu/mgis/about/program-thats-map) program at the University of Minnesota.

@@ -1,16 +1,4 @@
-# Setup
-title:        Rob Hendrickson's Digital Portfolio
-tagline:      Hello!
-baseurl:      ""
-paginate:     1
-locale:       "en"
-
-# About/contact
-author:
-  name:       Rob Hendrickson
-  url:        https://www.linkedin.com/in/rob-h-500837a0/ 
- 
+title: Rob Hendrickson's Digital Portfolio
 github:
   is_project_page: false
-  
 theme: jekyll-theme-cayman

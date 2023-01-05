@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: page
 title: Miscellany
-description: Miscellaneous Links
 ---
 
 ## Math Art

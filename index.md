@@ -4,19 +4,12 @@ title: Rob Hendrickson
 description: This is my digital portfolio.
 ---
 
-I am a recent graduate of the [Masters of Geographic Information Science (MGIS)](https://cla.umn.edu/mgis/about/program-thats-map) program at the University of Minnesota.
+<center>
 
-## Interests:
+# Hello!
 
-~ [Environmental Justice](https://rwhendrickson.github.io/Portfolio/Foci/ej)
+I am a recent graduate of the [Masters of Geographic Information Science (MGIS)](https://cla.umn.edu/mgis/about/program-thats-map) program at the University of Minnesota focusing on applications of GIS in Environmental Justice.
 
-~ [Community Geography](https://rwhendrickson.github.io/Portfolio/Foci/community_geography)
+<img src="https://rwhendrickson.github.io/Portfolio/figs/TC_Water_mug.jpg" alt="Water bodies in Twin Cities on coffee mug." width="500"/>
 
-~ [Numerical Spatial Analysis](https://rwhendrickson.github.io/Portfolio/Foci/numerical_spatial)
-
-~ [Open-Source Software](https://rwhendrickson.github.io/Portfolio/Foci/open_source)
-
-
-<img src="https://rwhendrickson.github.io/Portfolio/figs/mpls_mobility.png" alt="mpls_mobility" width="600"/>
-
-[Home](https://rwhendrickson.github.io/Portfolio/index) ~ [About](https://rwhendrickson.github.io/Portfolio/about) ~ [Project](https://rwhendrickson.github.io/Portfolio/projects) ~ [Resources](https://rwhendrickson.github.io/Portfolio/resources) ~ [Contact](https://rwhendrickson.github.io/Portfolio/contact)
+</center>

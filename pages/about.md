@@ -3,7 +3,6 @@ layout: page
 title: About
 ---
 
-<center>
 
 # Bio
 
@@ -26,5 +25,3 @@ In my free time I enjoy paddling, making music, and writing.
 ~ [Numerical Spatial Analysis](https://rwhendrickson.github.io/Portfolio/pages/numerical_spatial)
 
 ~ [Open-Source Software](https://rwhendrickson.github.io/Portfolio/pages/open_source)
-
-</center>

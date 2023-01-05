@@ -3,7 +3,6 @@ layout: page
 title: Resources
 ---
 
-<center>
 
 # Resources
 
@@ -14,5 +13,3 @@ title: Resources
 [Global Map of Indigenous Land](https://native-land.ca/)
 
 [Free Topographical Mapmaker](https://caltopo.com/map.html)
-
-</center>

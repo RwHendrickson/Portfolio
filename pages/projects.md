@@ -3,9 +3,13 @@ layout: page
 title: Projects
 ---
 
-# Current Projects
+<!-- For Collapible cell formatting - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details -->
 
-## **Mapping Green Zones**
+# **Current Projects**
+
+<details>
+<summary><h2>Mapping Green Zones</h2>
+</summary>
 
 ### One Sentence Description
 
@@ -14,8 +18,11 @@ Create an interactive web site that promotes environmental justice and highlight
 ### [Map](https://rwhendrickson.github.io/MappingGZ/MVP_2)
 
 ### [Repository](https://github.com/RwHendrickson/MappingGZ) 
+</details>
 
-## **Measuring the Distribution of Environmental Hazards in Minneapolis**
+<details>
+<summary><h2>Measuring the Distribution of Environmental Hazards in Minneapolis</h2>
+</summary>
 
 ### [Repository](https://github.com/RwHendrickson/GIS5571/blob/main/Final_Project)
 
@@ -48,21 +55,33 @@ It is understood that some parts of Minneapolis experience a greater burden of e
 <img src="../figs/Purple Air Interpolation.png" alt="Purple Air Interpolation.png" class="responsive" width = 600/>
 </center>
 
-## **Twin Cities Mobility & Emissions**
+</details>
 
-In this project, I am exploring the relationship between human mobility and emissions. This involves:
+<details>
+<summary><h2>Twin Cities Mobility & Pollutants</h2>
+</summary>
 
-* Aggregating large datasets of device trajectories in the Twin Cities Metropolitan Area
-* Measuring human mobility indices at various time scales
-* Exploring relationships between mobility indices, observed PM2.5, and municipal carbon emissions.
+In this project, I am working with [Dr. Di Zhu](https://cla.umn.edu/about/directory/profile/dizhu) and the GeoDI lab to explore the scaling relationships between human mobility and pollutants in the Twin Cities Metropolitan Area (TCMA). This involves:
+
+1) Cleaning and aggregating large datasets of:
+    * Device trajectories in the TCMA 
+        * Data funded by Center for Urban & Regional Affairs ([CURA](https://www.cura.umn.edu/))
+    * Daily carbon dioxide emissions ([Source](https://www.nature.com/articles/s41597-022-01657-z))
+    * PurpleAir Observed Particulate Matter 2.5 (PM2.5) ([Source](https://map.purpleair.com/1/mAQI/a60/p604800/cC0#11/44.9402/-93.2188))
+2) Measuring human mobility indices at various time scales
+3) Exploring relationships between mobility indices, observed PM2.5, and municipal carbon emissions.
 
 <center>
 <img src="../figs/mpls_mobility.svg" alt="mpls_mobility.svg" class="responsive" width = 600/>
 </center>
 
-# Selection of Past Projects
+</details>
+<!-- Past Projects -->
+# **Select Past Projects**
 
-## **Mitigating Runoff on the St. Paul Campus**
+<details>
+<summary><h2>Mitigating Runoff on the St. Paul Campus</h2>
+</summary>
 
 The goal of this project was to find the most cost-effective storm-water runoff mitigation strategy for the St. Paul Campus of the University of Minnesota. This involved modeling Rainfall at Surface (RAS) and Surface Absorption (SA) to estimate runoff across the study area as well as approximating flow accumulation using pre-processed Digital Elevation Model (DEM) data. Upon diagnosing the current condition of the campus’ storm preparedness, mitigation measures were proposed to bring net runoff of each watershed to zero.
 
@@ -71,7 +90,11 @@ The goal of this project was to find the most cost-effective storm-water runoff 
     </iframe>
 </center>
 
-## **Modeling Cercarial Dermatitis**
+</details>
+
+<details>
+<summary><h2>Modeling Cercarial Dermatitis</h2>
+</summary>
 
 <center>
 <img src="../figs/REU Poster.png" alt="REU Poster.png" class="responsive" width = 500/>
@@ -82,3 +105,6 @@ In the summer of 2016, I participated in an undergraduate research experience at
 Tasked with finding our own research topic, my partner and I scoured countless articles and research papers. We eventually resolved to study cercarial dermatitis, also known as swimmers’ itch, because the control practices at that time were particularly harmful to lake ecosystems. By the end of the summer, we had built our own mathematical model of the parasite-host dynamics and coded a specialized RK4 differential equation solver into Matlab. This allowed us to experiment with more ecologically sound treatment methods and devise recommendations for lake management across the Midwest.
 
 We later presented our project at the 2017 Joint Mathematics Meeting in Atlanta, and our preliminary work led to a [publication](https://www.researchgate.net/publication/342077609_A_mathematical_model_for_the_control_of_swimmer%27s_itch) in 2020 by Dr. Peirce and Dr. Sandland, in which we are acknowledged.
+
+</details>
+

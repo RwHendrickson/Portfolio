@@ -1,10 +1,33 @@
 ---
 ---
 
+// Image responsive sizing
 .responsive {
     height: 95%;
     max-width: 100%;
 }
+
+// Collapsible cells
+
+details {
+//    border-radius: 4px;
+//  font: 16px "Open Sans", Calibri, sans-serif;
+//  width: 620px;
+}
+
+details > summary {
+  padding: 2px 6px;
+  width: 500;
+//  border: 1px solid #aaa;
+  cursor: pointer;
+}
+
+details[open] > summary {
+  background-color: #ccf;
+}
+
+
+// Header formatting
 
 $header-bg-color: #21C685 !default;
 @mixin large {

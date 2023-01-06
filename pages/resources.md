@@ -9,6 +9,8 @@ title: Resources
 
 [Principles](https://www.ejnet.org/ej/principles.html)
 
+[Earth Defenders Toolkit](https://www.earthdefenderstoolkit.com/)
+
 [Twin Cities EJ Mapping Tool](https://ceed.org/environmental-justice-mapping-tool/)
 
 [Bdote Memory Map](https://bdotememorymap.org/) - Learn about the Dakota people's connection to Minnesota
@@ -25,4 +27,8 @@ title: Resources
 
 ## Open-Source Software
 
-[Free Topographical Mapmaker](https://caltopo.com/map.html)
+[Terrastories](https://terrastories.app/) - Open-Sourced Story Maps
+
+[Mapeo](https://www.digital-democracy.org/mapeo) - Open-Sourced Tools for collecting and mapping information
+
+[Caltopo](https://caltopo.com/map.html) - Free Topographical Mapmaker

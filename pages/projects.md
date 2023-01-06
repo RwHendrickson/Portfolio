@@ -24,7 +24,7 @@ Create an interactive web site that promotes environmental justice and highlight
 It is understood that some parts of Minneapolis experience a greater burden of environmental hazard than others. Anecdotally and visually, this can be correlated to [restrictive housing practices](https://legacy.umn.edu/stories/a-city-divided-0) of the early to mid 20th century. This project aims to quantify the cumulative environmental harms across Minneapolis at a fine spatial resolution with the intention of spatially correlating this with historic restrictive housing practices and modern demographics.
 
 <center>
-<img src="/figs/AirQualityHazardsAndAsthma.png" alt="AirQualityHazardsAndAsthma.png" class="responsive" width = 600/>
+<img src="../figs/AirQualityHazardsAndAsthma.png" alt="AirQualityHazardsAndAsthma.png" class="responsive" width = 600/>
 </center>
 
 ### Data Sources
@@ -40,12 +40,12 @@ It is understood that some parts of Minneapolis experience a greater burden of e
 <center>
 <br>
 <h3> An example of an air quality hazard index </h3>
-<img src="/figs/ExampleHazardIndex.png" alt="ExampleHazardIndex.png" class="responsive" width = 600/>
+<img src="../figs/ExampleHazardIndex.png" alt="ExampleHazardIndex.png" class="responsive" width = 600/>
 </center>
 
 <center>
 <h3> Interpolation of 6-Month Average PM2.5 Observations</h3>
-<img src="/figs/Purple Air Interpolation.png" alt="Purple Air Interpolation.png" class="responsive" width = 600/>
+<img src="../figs/Purple Air Interpolation.png" alt="Purple Air Interpolation.png" class="responsive" width = 600/>
 </center>
 
 ## **Twin Cities Mobility & Emissions**
@@ -57,7 +57,7 @@ In this project, I am exploring the relationship between human mobility and emis
 * Exploring relationships between mobility indices, observed PM2.5, and municipal carbon emissions.
 
 <center>
-<img src="/figs/mpls_mobility.svg" alt="mpls_mobility.svg" class="responsive" width = 600/>
+<img src="../figs/mpls_mobility.svg" alt="mpls_mobility.svg" class="responsive" width = 600/>
 </center>
 
 # Selection of Past Projects
@@ -67,14 +67,14 @@ In this project, I am exploring the relationship between human mobility and emis
 The goal of this project was to find the most cost-effective storm-water runoff mitigation strategy for the St. Paul Campus of the University of Minnesota. This involved modeling Rainfall at Surface (RAS) and Surface Absorption (SA) to estimate runoff across the study area as well as approximating flow accumulation using pre-processed Digital Elevation Model (DEM) data. Upon diagnosing the current condition of the campus’ storm preparedness, mitigation measures were proposed to bring net runoff of each watershed to zero.
 
 <center>
-    <iframe src="/figs/25mm_Mitigation_map.pdf#toolbar=0" width="100%" height="1000px">
+    <iframe src="../figs/25mm_Mitigation_map.pdf#toolbar=0" width="100%" height="1000px">
     </iframe>
 </center>
 
 ## **Modeling Cercarial Dermatitis**
 
 <center>
-<img src="/figs/REU Poster.png" alt="REU Poster.png" class="responsive" width = 500/>
+<img src="../figs/REU Poster.png" alt="REU Poster.png" class="responsive" width = 500/>
 </center>
 
 In the summer of 2016, I participated in an undergraduate research experience at the University of Wisconsin – La Crosse. Following their crash course in mathematical ecology, my mentors, [Dr. Greg Sandland](https://www.uwlax.edu/profile/gsandland/) and [Dr. James Peirce](https://www.uwlax.edu/profile/jpeirce/), paired me with another undergraduate student, [Kelly Buch](http://feffermanlab.org/kelly.html). 

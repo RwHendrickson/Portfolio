@@ -3,5 +3,4 @@ layout: page
 title: Contact
 ---
 
-
-# In Process
+## Email - hendr862@umn.edu

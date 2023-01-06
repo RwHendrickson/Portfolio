@@ -3,13 +3,26 @@ layout: page
 title: Resources
 ---
 
-
 # Resources
+
+## Environmental Justice
+
+[Principles](https://www.ejnet.org/ej/principles.html)
 
 [Twin Cities EJ Mapping Tool](https://ceed.org/environmental-justice-mapping-tool/)
 
 [Bdote Memory Map](https://bdotememorymap.org/) - Learn about the Dakota people's connection to Minnesota
 
-[Global Map of Indigenous Land](https://native-land.ca/)
+[Native Land](https://native-land.ca/) - Global Interactive Map of Indigenous Lands
+
+## Community Geography
+
+[On Praxis](https://experts.umn.edu/en/publications/mapping-a-path-towards-equity-reflections-on-a-co-creative-commun)
+
+## Numerical Spatial Analysis
+
+[Geographic Data Science in Python](https://geographicdata.science/book/intro.html)
+
+## Open-Source Software
 
 [Free Topographical Mapmaker](https://caltopo.com/map.html)

@@ -5,14 +5,25 @@ title: About
 
 # Hello!
 
-<img src="../figs/ForGitHub.png" alt="ForGitHub.png" class="responsive" width = 200/>
 
-I am in my final semester of the University of Minnesota's [Masters of Geographic Information Science (MGIS)](https://cla.umn.edu/mgis/about/program-thats-map) program. 
+<div class="grid">
+    <div class="col-1-2">
+       <div class="content">
+           <img src="../figs/ForGitHub.png" alt="ForGitHub.png" class="responsive" width = 200/>
+       </div>
+    </div>
+    <div class="col-1-2">
+       <div class="content">
+             <center>
+             <a href="https://www.linkedin.com/in/rob-h-500837a0/" class="btn" style = "color: Blue">LinkedIn</a> <br>
+             <a href="../resume.pdf" class="btn" style = "color: Blue">Resume - Coming Soon</a>
+             </center>
+       </div>
+    </div>
+</div>
 
-<center>
-<a href="https://www.linkedin.com/in/rob-h-500837a0/" class="btn" style = "color: Blue">LinkedIn</a>
-<a href="../resume.pdf" class="btn" style = "color: Blue">Resume - Coming Soon</a>
-</center>
+My name is Rob (he/him), and I am in my final semester of the University of Minnesota's [Masters of Geographic Information Science (MGIS)](https://cla.umn.edu/mgis/about/program-thats-map) program. 
+
 ## Interests:
 
 * Environmental Justice

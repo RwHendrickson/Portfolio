@@ -54,6 +54,11 @@ It is understood that some parts of Minneapolis experience a greater burden of e
 <img src="../figs/Purple Air Interpolation.png" alt="Purple Air Interpolation.png" class="responsive" width = 600/>
 </center>
 
+<center>
+<h3> Residuals from Air Quality Hazard Index and Normalized PurpleAir Interpolation</h3>
+<img src="../figs/ExampleResiduals.png" alt="ExampleResiduals.png" class="responsive" width = 600/>
+</center>
+
 <h3><b> Data Sources </b></h3>
 
 <h4> <a href="https://files.pca.state.mn.us/pub/file_requests/datasets/Air/">MPCA's Permitted Industrial Emissions</a> </h4>

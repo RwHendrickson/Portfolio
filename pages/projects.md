@@ -5,7 +5,7 @@ title: Projects
 
 <!-- For Collapible cell formatting - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details -->
 
-<h1><b>Current Projects</b> <small><i>(Click to Expand a Project)</i></small></h1>
+<h1><b>Current Projects</b> <small><small><small><i>(Click to Expand a Project)</i></small></small></small></h1>
 <!-- Mapping Green Zones -->
 <details>
 <summary><h2>Mapping Green Zones</h2>
@@ -92,7 +92,7 @@ In this project, I am working with <a href="https://cla.umn.edu/about/directory/
 <hr><hr><hr>
 </details>
 
-<h1><b>Select Past Projects</b> <small><i>(Click to Expand a Project)</i></small></h1>
+<h1><b>Past Projects</b></h1>
 <!-- Mitigating Runoff -->
 <details>
 <summary><h2>Mitigating Runoff on the St. Paul Campus</h2>
@@ -103,8 +103,9 @@ The goal of this project was to find the most cost-effective storm-water runoff 
 This involved modeling Rainfall at Surface (RAS) and Surface Absorption (SA) to estimate runoff across the study area as well as approximating flow accumulation using Digital Elevation Model (DEM) data. Upon diagnosing the current condition of the campus’ storm preparedness, mitigation measures were proposed to bring net runoff of each watershed to zero.
 <br> <br>
 <center>
-    <iframe src="../figs/25mm_Mitigation_map.pdf#toolbar=0" title="25mm Storm Mitigation" width="100%" height="1000px">
-    </iframe>
+    <img src="../figs/25mm_Mitigation_map.png" title="25mm Storm Mitigation" class = "responsive" width="500">
+<!--<iframe src="../figs/25mm_Mitigation_map.pdf#toolbar=0" title="25mm Storm Mitigation" width="100%" height="1000px">
+</iframe>-->
 </center>
 
 <hr><hr><hr>

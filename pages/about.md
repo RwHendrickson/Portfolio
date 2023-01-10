@@ -15,8 +15,9 @@ title: About
     <div class="col-1-2">
        <div class="content">
              <center>
-             <a href="https://www.linkedin.com/in/rob-h-500837a0/" class="btn" style = "color: Blue">LinkedIn</a> <br>
-             <a href="../resume.pdf" class="btn" style = "color: Blue">Resume - Coming Soon</a>
+             <a href="https://www.linkedin.com/in/rob-h-500837a0/" class = "Button">LinkedIn</a> 
+             <br> <br>
+             <a href="../resume.pdf" class="Button">Resume - Coming Soon</a>
              </center>
        </div>
     </div>
@@ -24,7 +25,7 @@ title: About
 
 My name is Rob (he/him), and I am in my final semester of the University of Minnesota's [Masters of Geographic Information Science (MGIS)](https://cla.umn.edu/mgis/about/program-thats-map) program. 
 
-## Interests:
+## Interests
 
 * Environmental Justice
 

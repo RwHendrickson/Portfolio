@@ -6,7 +6,7 @@ description: This is my digital portfolio.
 
 <h1 class="project-name" style = "color:white">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
 
-<img src="./figs/TC_Water_mug.svg" alt="Water bodies in Twin Cities on coffee mug." class="responsive" width = 500/>
+<img src="./figs/TC_Water_mug.svg" alt="Water bodies in Twin Cities on coffee mug." class="responsive" width=450/> <!--width=500-->
 
 <h2 class="project-tagline" style = "color:white">{{ page.description }} </h2>
 

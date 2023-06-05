@@ -68,12 +68,26 @@ It is understood that some parts of Minneapolis experience a greater burden of e
 
 <hr><hr><hr>
 </details>
+
+<h1><b>Past Projects</b></h1>
 <!-- Mobility -->
 <details>
 <summary><h2>Twin Cities Mobility & Pollutants</h2>
 </summary>
 
-In this project, I am working with <a href="https://cla.umn.edu/about/directory/profile/dizhu">Dr. Di Zhu</a> and the GeoDI lab to explore the scaling relationships between human mobility and pollutants in the Twin Cities Metropolitan Area (TCMA). This involves:
+<center>
+
+<i> Presented in Denver at the 2023 AAG Conference </i> 
+
+<br> 
+
+(<a href="https://drive.google.com/file/d/1SsGwYA1fzrX8Vt3p-IpZ3X70NN7KwxD6/view?usp=drive_link" target="_blank">Slides</a> | <a href="https://drive.google.com/file/d/1Y3SjIrVOmcSrzCygq_HvVVrLvtGeC03Z/view?usp=drive_link" target="_blank">Recording</a>) 
+
+</center>
+
+<br>
+
+In this project, I worked with <a href="https://cla.umn.edu/about/directory/profile/dizhu">Dr. Di Zhu</a> and the GeoDI lab to explore the scaling relationships between human mobility and pollutants in the Twin Cities Metropolitan Area (TCMA). This involved:
 <br> <br>
 <ol>
 <li>Cleaning and aggregating large datasets of:</li>
@@ -82,22 +96,30 @@ In this project, I am working with <a href="https://cla.umn.edu/about/directory/
 <li>Device trajectories in the TCMA </li>
 <ul><li>Data funded by Center for Urban & Regional Affairs (<a href="https://www.cura.umn.edu/">CURA</a>) </li></ul>
 <li>Daily carbon dioxide emissions (<a href="https://www.nature.com/articles/s41597-022-01657-z">Source</a>) </li>
-<li>PurpleAir Observed Particulate Matter 2.5 (PM2.5) (<a href="https://map.purpleair.com/1/mAQI/a60/p604800/cC0#11/44.9402/-93.2188">Source</a>) </li>
 </ul>
 <br>
 <li>Measuring human mobility indices at various time scales</li>
 <br>
-<li>Exploring relationships between mobility indices, observed PM2.5, and municipal carbon emissions</li>
+<li>Exploring relationships between mobility indices and municipal carbon emissions</li>
 </ol>
 
-<center>
-<img src="../figs/mpls_mobility.svg" alt="mpls_mobility.svg" class="responsive" width = 600/>
-</center>
+
+<div class="grid">
+    <div class="col-1-2">
+       <div class="content">
+           <img src="../figs/mpls_mobility.svg" alt="mpls_mobility.svg" class="responsive" width=600/>
+       </div>
+    </div>
+    <div class="col-1-2">
+       <div class="content">
+             <embed type="text/html" src="../figs/for_website.html" width="400" height="400"/>
+       </div>
+    </div>
+</div>
 
 <hr><hr><hr>
 </details>
 
-<h1><b>Past Projects</b></h1>
 <!-- Mitigating Runoff -->
 <details>
 <summary><h2>Mitigating Runoff on the St. Paul Campus</h2>

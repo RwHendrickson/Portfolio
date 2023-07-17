@@ -9,20 +9,35 @@ title: About
 <div class="grid">
     <div class="col-1-2">
        <div class="content">
+           <center>
            <img src="../figs/ForGitHub.png" alt="ForGitHub.png" class="responsive" width = 200/>
+           <br>
+           <a href="https://www.linkedin.com/in/~rwhendrickson" target="_blank">
+                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+                </a>
+            </center>
        </div>
     </div>
     <div class="col-1-2">
        <div class="content">
-        <br> <br>  <br>
-             <a href="https://www.linkedin.com/in/rob-h-500837a0/" class = "Button" target="_blank">LinkedIn</a> 
-<!--             <br> <br>
-             <a href="../resume.pdf" class="Button">Resume - Coming Soon</a>-->
+       <center>
+            <h1>Interests</h1>
+        </center>
+            <ul>
+            <li>Environmental Justice</li>
+            <li>Education</li>
+            <li>Community Geography</li>
+            <li> Numerical Spatial Analysis</li>
+            <li> Free and Open-Source Software</li>
+            </ul>
        </div>
     </div>
 </div>
 
-My name is Rob (he/him), and I am a recent graduate of the University of Minnesota's [Masters of Geographic Information Science (MGIS)](https://cla.umn.edu/mgis/about/program-thats-map) program and current member of the South Side [Green Zone](https://www2.minneapolismn.gov/government/departments/health/sustainability-homes-environment/sustainability/green-zones/) Council.
+
+My name is Rob (he/him), and I am a recent graduate of the University of Minnesota's [Masters of Geographic Information Science (MGIS)](https://cla.umn.edu/mgis/about/program-thats-map) program and current member of the [South Side Green Zone Council](https://www2.minneapolismn.gov/government/departments/health/sustainability-homes-environment/sustainability/green-zones/).
+
+--- 
 
 ## Bio
 
@@ -31,15 +46,3 @@ I was raised on Mdewakanton and Wahpekute land in the town of Red Wing, Minnesot
 My research interests include: historic and contemporary barriers to racial equity; urban environmental justice; spatio-temporal modeling; and consequences of climate change. I am also passionate about community education and procedural justice in decision making.
 
 In my free time I enjoy paddling, dancing, making music, and writing.
-
-## Interests
-
-* Environmental Justice
-
-* Education
-
-* Community Geography
-
-* Numerical Spatial Analysis
-
-* Open-Source Software

@@ -106,7 +106,7 @@ input[type=text], select, textarea {
   resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
 }
 
-input[type=textarea], textarea {
+input[type=textarea], select, textarea {
   width: 100%; /* Full width */
   height: 150px;
   padding: 12px; /* Some padding */ 

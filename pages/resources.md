@@ -17,6 +17,8 @@ title: Resources
 
 [Native Land](https://native-land.ca/) - Global Interactive Map of Indigenous Lands
 
+[Minneapolis Pollution Map](https://rwhendrickson.github.io/Community_Air_Monitoring/Notebooks/3_Web_Map/MVP) - Light weight webmap for exploring pollution data in Minneapolis
+
 ---
 
 ### PDFs
@@ -33,7 +35,7 @@ title: Resources
 
 [Inkscape](https://inkscape.org/) - Adobe Illustrator Alternative
 
-[Caltopo](https://caltopo.com/map.html) - Topographical Mapmaker
+[Caltopo](https://caltopo.com/map.html) - Topographical Mapmaker (Free but not Open-Source)
 
 [Terrastories](https://terrastories.app/) - Storytelling with Maps
 
@@ -49,6 +51,7 @@ title: Resources
 ---
 ---
 ## Miscellany
+[Minneapolis Air Quality LinkTree](https://linktr.ee/minneapolis_airquality)
 
 [Environmental Justice Principles](https://www.ejnet.org/ej/principles.html)
 

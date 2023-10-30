@@ -18,8 +18,8 @@ This is a repository for a free and open-source version of the code to acquire, 
 
 <center>
 <h3> 
-<a href="https://rwhendrickson.github.io/Community_Air_Monitoring/Notebooks/3_Web_Map/MVP" class="btn" style = "color: Blue" target="_blank">Map</a>
-<a href="https://github.com/RwHendrickson/Community_Air_Monitoring" class="btn" style = "color: Blue" target="_blank">Repository</a> 
+<a href="https://github.com/RwHendrickson/AQ_SpikeAlerts/tree/development" class="btn" style = "color: Blue" target="_blank">Repository - Text Alerts</a> 
+<a href="https://github.com/RwHendrickson/Community_Air_Monitoring" class="btn" style = "color: Blue" target="_blank">Repository - Data Pipelines</a> 
 </h3>
 </center>
 
@@ -29,7 +29,7 @@ This is a repository for a free and open-source version of the code to acquire, 
 
 <!-- Env Hazards in Mpls -->
 <details>
-<summary><h2>Cumulative Impacts</h2>
+<summary><h2>Cumulative Impacts (TABLED)</h2>
 </summary>
 
 
@@ -37,6 +37,7 @@ This is a repository for a free and open-source version of the code to acquire, 
 <center>
 <h3> 
 <a href="https://github.com/RwHendrickson/GIS5571/blob/main/Final_Project" class="btn" style = "color: Blue" target="_blank">Repository</a>
+<a href="https://rwhendrickson.github.io/Community_Air_Monitoring/Notebooks/3_Web_Map/MVP" class="btn" style = "color: Blue" target="_blank">Web Map</a>
 <a href="https://drive.google.com/file/d/1BIHETrj83yiBUIB_gVJPmuoXAMaDP2_A/view?usp=drive_link" class="btn" style = "color: Blue" target="_blank">Write-Up (Rough Draft)</a>
 </h3>
 </center>
@@ -47,6 +48,10 @@ It is understood that some parts of Minneapolis experience a greater burden of e
 <br><br>
 <center>
 <img src="../figs/AirQualityHazardsAndAsthma.png" alt="AirQualityHazardsAndAsthma.png" class="responsive" width = 600/>
+</center>
+
+<center>
+<img src="../figs/Phillips_Traffic-FinalMap.png" alt="Phillips_Traffic-FinalMap.png" class="responsive" width = 600/>
 </center>
 
 <center>

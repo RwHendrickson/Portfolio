@@ -14,12 +14,15 @@ title: Projects
 
 <h3>One Sentence Description</h3>
 
-This is a repository for a free and open-source version of the code to acquire, analyze, and visualize the data from the City of Minneapolis' <a href="https://www.minneapolismn.gov/government/programs-initiatives/environmental-programs/air-quality/" target="_blank">Community Air Monitoring Project</a>.
+These are free and open-source repositories for to acquire, analyze, and visualize the data from the City of Minneapolis' <a href="https://www.minneapolismn.gov/government/programs-initiatives/environmental-programs/air-quality/" target="_blank">Community Air Monitoring Project</a>.
 <br><br>
 <center>
 <h3> 
-<a href="https://github.com/RwHendrickson/AQ_SpikeAlerts/tree/development" style = "color: Blue" target="_blank">Repository - Text Alerts</a>&emsp;&emsp;
-<a href="https://github.com/RwHendrickson/Community_Air_Monitoring" style = "color: Blue" target="_blank">Repository - Data Pipelines</a> 
+<a href="https://SpikeAlerts.github.io/Website" style = "color: Blue" target="_blank">SpikeAlerts Website</a>&emsp;&emsp;
+<a href="https://github.com/SpikeAlerts/SpikeAlerts_Heroku" style = "color: Blue" target="_blank">SpikeAlerts for Heroku</a>&emsp;&emsp;
+<a href="https://github.com/SpikeAlerts/AQ_SpikeAlerts" style = "color: Blue" target="_blank">SpikeAlerts Development</a>
+
+<!--<a href="https://github.com/RwHendrickson/Community_Air_Monitoring" style = "color: Blue" target="_blank">Repository - Data Pipelines</a> -->
 </h3>
 </center>
 

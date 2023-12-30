@@ -3,39 +3,39 @@ layout: page
 title: About
 ---
 
-# Hello!
-
 
 <div class="grid">
     <div class="col-1-2">
        <div class="content">
            <center>
+           <h1>Hello!</h1>
            <img src="../figs/ForGitHub.png" alt="ForGitHub.png" class="responsive" width = 200/>
+           <br>
+           My name is Rob (he/him)
            <br>
            <a href="https://www.linkedin.com/in/~rwhendrickson" target="_blank">
                 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+                </a>
+                <a rel="me" href="https://mapstodon.space/@Robb"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white" />
                 </a>
             </center>
        </div>
     </div>
     <div class="col-1-2">
        <div class="content">
-       <center>
-            <h1>Interests</h1>
-        </center>
-            <ul>
-            <li>Environmental Justice</li>
-            <li>Education</li>
-            <li>Community Geography</li>
-            <li> Numerical Spatial Analysis</li>
-            <li> Free and Open-Source Software</li>
-            </ul>
+        I am a current member of the <a href="https://www2.minneapolismn.gov/government/departments/health/sustainability-homes-environment/sustainability/green-zones/">South Side Green Zone Council</a> and a recent graduate of the University of Minnesota's <a href="https://cla.umn.edu/mgis/about/program-thats-map">Masters of Geographic Information Science (MGIS)</a> program.
+                <hr>
+       <h1><b>Interests</b></h1>
+        <ul>
+        <li>Environmental Justice</li>
+        <li>Education</li>
+        <li>Community Geography</li>
+        <li> Numerical Spatial Analysis</li>
+        <li> Free and Open-Source Software</li>
+        </ul>
        </div>
     </div>
 </div>
-
-
-My name is Rob (he/him), and I am a recent graduate of the University of Minnesota's [Masters of Geographic Information Science (MGIS)](https://cla.umn.edu/mgis/about/program-thats-map) program and current member of the [South Side Green Zone Council](https://www2.minneapolismn.gov/government/departments/health/sustainability-homes-environment/sustainability/green-zones/).
 
 --- 
 

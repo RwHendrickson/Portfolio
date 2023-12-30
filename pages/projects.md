@@ -167,7 +167,9 @@ In this project, I worked with <a href="https://cla.umn.edu/about/directory/prof
 
 The goal of this project was to find the most cost-effective storm-water runoff mitigation strategy for the St. Paul Campus of the University of Minnesota.
 <br> <br>
-This involved modeling Rainfall at Surface (RAS) and Surface Absorption (SA) to estimate runoff across the study area as well as approximating flow accumulation using Digital Elevation Model (DEM) data. Upon diagnosing the current condition of the campus’ storm preparedness, mitigation measures were proposed to bring net runoff of each watershed to zero.
+This involved use of ESRI's Model Builder to create workflows that computed rasters representing Rainfall at Surface (RAS) and Surface Absorption (SA) across the study area. Watersheds and flow accumulation were approximated as well using Digital Elevation Model (DEM) data. 
+<br><br>
+Upon diagnosing the current condition of the campus’ storm preparedness, mitigation measures were proposed to bring net runoff of each watershed to zero.
 <br> <br>
 <center>
     <img src="../figs/25mm_Mitigation_map.png" title="25mm Storm Mitigation" class = "responsive" width="500">

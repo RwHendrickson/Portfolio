@@ -31,11 +31,11 @@ In my free time I enjoy paddling, dancing, making music, and writing.
 
 --- 
 
-## **Ancestry & Land Acknowledgment**
+<!--## **Ancestry & Land Acknowledgment**
 
 On my mother's side, I am descended from Eastern European, Scandinavian, and English immigrants of the modern Chicago-area which is stolen [Patowatomi](http://www.encyclopedia.chicagohistory.org/pages/1001.html) land. The history of these immigrant populations is [complex](http://www.encyclopedia.chicagohistory.org/pages/1033.html) but can partly be summarised by themes of intimate ethnic identities, lively cultural exchanges, and racial exclusion & violence (particularly against African Americans of the Great Migration). 
 
 My father's ancestors are Norwegian and [Frisian](https://penelope.uchicago.edu/Thayer/E/Journals/WiMH/31/Founding_of_New_Amsterdam_in_Lacrosse_County*.html) farmers who settled in the Driftless Area near modern-day La Crosse, Wisconsin in the mid to late 1800's. These fertile lands were considered sacred by the Ho-Chunk, Sauks, and Meskwakis but were appropriated through infectious disease epidemics and increased pressure from European and US settlement. The forced Treaty of St. Louis (1804) and resulting [Black Hawk War of 1832](https://en.wikipedia.org/wiki/Black_Hawk_War#Treaties_and_removals) marked an increase in US government policies that forcibly displaced Native Americans in this area. 
 
-By 1871 the US government had "changed its focus to "de-Indianizing" this population, creating schools that attempted to rid them of their cultural traditions and ways of life by breaking tribal ties and molding them into the image of white settlers" which included a [boarding school](https://honoringnativeancestors.blogspot.com/2017/09/tomah-school.html) in nearby Tomah ([Source](https://www.dhs.wisconsin.gov/minority-health/population/amind-pophistory.htm)).
+By 1871 the US government had "changed its focus to "de-Indianizing" this population, creating schools that attempted to rid them of their cultural traditions and ways of life by breaking tribal ties and molding them into the image of white settlers" which included a [boarding school](https://honoringnativeancestors.blogspot.com/2017/09/tomah-school.html) in nearby Tomah ([Source](https://www.dhs.wisconsin.gov/minority-health/population/amind-pophistory.htm)).-->
 

@@ -21,10 +21,16 @@ Geospatial Analyst & Developer, Writer, and DIYer
 </center>
 <hr>
 <h1><b>Bio</b></h1>
-I was raised on Mdewakanton and Wahpekute land in the town of Red Wing, Minnesota where I was taught a [deep appreciation](https://redwingelc.com/about) of our natural world. In 2017, I graduated from the University of Minnesota - Twin Cities with a B.S. in mathematics and have worked in various fields since.
+I was raised on [Dakota Land](https://native-land.ca/maps/territories/oceti-sakowin-sioux/) in the town of Red Wing, Minnesota where I was taught a deep appreciation of our natural world at the [Red Wing Environmental Learning Center](https://redwingelc.com/about). In 2017, I graduated from the University of Minnesota - Twin Cities with a B.S. in mathematics and moved to Australia...
 
-Currently, I am member of the <a href="https://www2.minneapolismn.gov/government/departments/health/sustainability-homes-environment/sustainability/green-zones/">South Side Green Zone Council</a> and recently graduated from the University of Minnesota's <a href="https://cla.umn.edu/mgis/about/program-thats-map">Masters of Geographic Information Science (MGIS)</a> program.
-<br><br>
+After 15 months of work-traveling as a farm hand, arborist's assistant, and general labourer, I returned to the States to serve 2 terms as an Americorps math tutor in Minneapolis. During this time I was introduced to the [Mapping Prejudice](https://mappingprejudice.umn.edu/) project, experienced the [George FLoyd Uprising](https://unicornriot.ninja/?s=george+floyd+minneapolis), and began volunteer-organizing with various grassroots movements. 
+
+These experiences led me to the University of Minnesota's <a href="https://cla.umn.edu/mgis/about/program-thats-map">Masters of Geographic Information Science (MGIS)</a> program, which I recently graduated from in the Spring of 2023. 
+
+Currently, I am member of the <a href="https://www2.minneapolismn.gov/government/departments/health/sustainability-homes-environment/sustainability/green-zones/">South Side Green Zone Council</a> and volunteering with the East Phillips Health Team. My current project is creating a Free and Open-Sourced [alert system](https://spikealerts.github.io/Website/) for the Minneapolis Health Department's Community Air Monitoring Project.
+
+<hr>
+
 My research interests include: historic and contemporary barriers to racial equity; spatio-temporal modeling; and consequences of climate change. I am also passionate about community education and procedural justice in decision making.
 <br><br>
 In my free time I enjoy paddling, dancing, making music, and writing.

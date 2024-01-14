@@ -12,19 +12,20 @@ title: Projects
 <summary><h2>Community Air Monitoring</h2>
 </summary>
 
-<h3>One Sentence Description</h3>
+<h3>Quick Description</h3>
 
-These are free and open-source repositories for to acquire, analyze, and visualize the data from the City of Minneapolis' <a href="https://www.minneapolismn.gov/government/programs-initiatives/environmental-programs/air-quality/" target="_blank">Community Air Monitoring Project</a>.
+Currently working on a project to create a text alert system for air quality in Minneapolis (<a href="https://SpikeAlerts.github.io/Website" style = "color: Blue" target="_blank">Website</a>). This project will remain free and open-source and will include code to acquire, analyze, and visualize the data from the City of Minneapolis' <a href="https://www.minneapolismn.gov/government/programs-initiatives/environmental-programs/air-quality/" target="_blank">Community Air Monitoring Project</a>.
 <br><br>
+<!--
 <center>
 <h3> 
-<a href="https://SpikeAlerts.github.io/Website" style = "color: Blue" target="_blank">SpikeAlerts Website</a>&emsp;&emsp;
 <a href="https://github.com/SpikeAlerts/SpikeAlerts_Heroku" style = "color: Blue" target="_blank">SpikeAlerts for Heroku</a>&emsp;&emsp;
 <a href="https://github.com/SpikeAlerts/AQ_SpikeAlerts" style = "color: Blue" target="_blank">SpikeAlerts Development</a>
 
-<!--<a href="https://github.com/RwHendrickson/Community_Air_Monitoring" style = "color: Blue" target="_blank">Repository - Data Pipelines</a> -->
+<a href="https://github.com/RwHendrickson/Community_Air_Monitoring" style = "color: Blue" target="_blank">Repository - Data Pipelines</a>
 </h3>
 </center>
+-->
 
 <hr><hr><hr>
 
@@ -38,7 +39,7 @@ These are free and open-source repositories for to acquire, analyze, and visuali
 
 <h3><b> Abstract </b></h3>
 
-It is understood that some parts of Minneapolis experience a greater burden of environmental hazard than others. Anecdotally and visually, this can be correlated to <a href="https://legacy.umn.edu/stories/a-city-divided-0" target="_blank">restrictive housing practices</a> of the early to mid 20th century. This project aims to quantify the cumulative environmental harms across Minneapolis at a fine spatial resolution with the intention of spatially correlating this with historic restrictive housing practices and modern demographics - continued <a href="https://drive.google.com/file/d/1BIHETrj83yiBUIB_gVJPmuoXAMaDP2_A/view?usp=drive_link" target="_blank">here</a>.
+It is understood that some parts of Minneapolis experience a greater burden of environmental hazard than others. Anecdotally and visually, this can be correlated to <a href="https://legacy.umn.edu/stories/a-city-divided-0" target="_blank">racially-restrictive housing practices</a> of the early to mid 20th century. This project aims to quantify the cumulative environmental harms across Minneapolis at a fine spatial resolution with the intention of spatially correlating this with historic restrictive housing practices and modern demographics - continued <a href="https://drive.google.com/file/d/1BIHETrj83yiBUIB_gVJPmuoXAMaDP2_A/view?usp=drive_link" target="_blank">here</a>.
 
 <br><br>
 

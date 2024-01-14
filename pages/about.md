@@ -9,7 +9,7 @@ title: About
 <br>
 My name is Rob (he/him)
 <br><br>
-Geospatial Analyst & Developer | Writer | and DIYer
+Geospatial Analyst & Developer | Communicator | Writer
 <br>
 <br>
 <a href="https://www.linkedin.com/in/~rwhendrickson" target="_blank">

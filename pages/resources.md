@@ -67,7 +67,6 @@ Download Links | [Google Drive](https://drive.google.com/file/d/1hTJPdHBZvlGzeV4
 ---
 ---
 ## Miscellany
-[Minneapolis Air Quality LinkTree](https://linktr.ee/minneapolis_airquality)
 
 [Environmental Justice Principles](https://www.ejnet.org/ej/principles.html)
 
@@ -78,3 +77,5 @@ Download Links | [Google Drive](https://drive.google.com/file/d/1hTJPdHBZvlGzeV4
 [Geographic Data Science in Python (Textbook)](https://geographicdata.science/book/intro.html)
 
 [Southside Green Zone Workplan](https://lims.minneapolismn.gov/Download/RCAV2/18349/SSGZ-Work-Plan-Report-Final.pdf)
+
+[Minneapolis Air Quality LinkTree](https://linktr.ee/minneapolis_airquality)

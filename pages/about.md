@@ -27,7 +27,7 @@ After 15 months of work-traveling as a farm hand, arborist's assistant, and gene
 
 These experiences led me to the University of Minnesota's <a href="https://cla.umn.edu/mgis/about/program-thats-map">Masters of Geographic Information Science (MGIS)</a> program, which I recently graduated from in the Spring of 2023. 
 
-I am member of the <a href="https://www2.minneapolismn.gov/government/departments/health/sustainability-homes-environment/sustainability/green-zones/">South Side Green Zone Council</a> and volunteering with the East Phillips Health Team. My current project is creating a Free and Open-Sourced [alert system](https://spikealerts.github.io/Website/) for the Minneapolis Health Department's Community Air Monitoring Project.
+I am a member of the <a href="https://www2.minneapolismn.gov/government/departments/health/sustainability-homes-environment/sustainability/green-zones/">South Side Green Zone Council</a> and volunteer with the East Phillips Health Team. My current project is creating a Free and Open-Sourced [alert system](https://spikealerts.github.io/Website/) for the Minneapolis Health Department's Community Air Monitoring Project.
 
 <hr>
 

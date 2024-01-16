@@ -15,7 +15,7 @@ Geospatial Analyst & Developer | Communicator | Writer
 <a href="https://www.linkedin.com/in/~rwhendrickson" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a rel="me" href="https://mapstodon.space/@Robb"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white" />
+    <a rel="Portfolio_About" href="https://mapstodon.space/@Robb"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white" />
     </a>
     <h1>Interests:</h1>Environmental Justice, Education, Community Geography, Numerical Spatial Analysis, Free and Open-Source Software
 </center>

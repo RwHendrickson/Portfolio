@@ -57,7 +57,7 @@ Download Links | [Google Drive](https://drive.google.com/file/d/1hTJPdHBZvlGzeV4
 
 [Mapeo](https://www.digital-democracy.org/mapeo) - Tools for collecting and mapping information
 
-[TeXstudio](https://www.texstudio.org/) - LaTex editor
+[TeXstudio](https://www.texstudio.org/) - LaTeX editor
 
 <!--## Datasets
 
@@ -72,7 +72,7 @@ Download Links | [Google Drive](https://drive.google.com/file/d/1hTJPdHBZvlGzeV4
 
 [Earth Defenders Toolkit](https://www.earthdefenderstoolkit.com/)
 
-[On Community Geography Praxis](https://experts.umn.edu/en/publications/mapping-a-path-towards-equity-reflections-on-a-co-creative-commun)
+[On Community Geography Praxis](https://sites.google.com/view/umnpraxislab/publications-lab-notes/articles/mapping-a-path-towards-equity)
 
 [Geographic Data Science in Python (Textbook)](https://geographicdata.science/book/intro.html)
 

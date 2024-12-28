@@ -1,2 +1,6 @@
 _site/
 Gemfile.lock
+LaTeX/CV/CV.aux
+LaTeX/CV/CV.log
+LaTeX/CV/CV.out
+LaTeX/CV/CV.synctex.gz

@@ -12,7 +12,7 @@ title: About
     Geospatial Analyst & Developer | Communicator | Writer
     <br>
     <br>
-    <div class="button"><a href="../figs/CV.pdf"><button>CV</button></a></div>
+    <div class="button"><a href="../LaTeX/CV/CV.pdf"><button>CV</button></a></div>
     <br>
     <a href="https://www.linkedin.com/in/~rwhendrickson" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -24,9 +24,7 @@ title: About
 <hr>
 
 <h1><b>About</b></h1>
-I am a member of the <a href="https://www2.minneapolismn.gov/government/departments/health/sustainability-homes-environment/sustainability/green-zones/">South Side Green Zone Council</a>, a volunteer with the East Phillips Health Team, and, tentatively, a visiting instructor at Macalester College (Fall 2024).
-
-My current project is creating a free and open-sourced alert system for community air monitoring projects with a loose collective called, "SpikeAlerts." There is a [working example](https://spikealerts.github.io/Website/) for the Minneapolis Health Department's Community Air Monitoring Project that I am managing.
+I am a member of the <a href="https://www2.minneapolismn.gov/government/departments/health/sustainability-homes-environment/sustainability/green-zones/">South Side Green Zone Council</a>, a volunteer with the East Phillips Health Team, and recently completed a term as a visiting instructor at Macalester College (Fall 2024).
 
 Research interests include: historic and contemporary barriers to racial equity; spatio-temporal modeling; and consequences of climate change. I am also passionate about community education and procedural justice in decision making.
 <br><br>
@@ -38,6 +36,8 @@ I was raised on [Dakota Land](https://native-land.ca/maps/territories/oceti-sako
 After 15 months of work-traveling as a farm hand, arborist's assistant, and general labourer, I returned to the States to serve 2 terms as an Americorps math tutor in Minneapolis. During this time I was introduced to the [Mapping Prejudice](https://mappingprejudice.umn.edu/) project, experienced the [George Floyd Uprising](https://unicornriot.ninja/?s=george+floyd+minneapolis), and began volunteer-organizing with various grassroots movements. 
 
 These experiences led me to the University of Minnesota's <a href="https://cla.umn.edu/mgis/about/program-thats-map">Masters of Geographic Information Science (MGIS)</a> program, which I graduated from in the Spring of 2023.
+
+Throughout and immediately after my degree, I focused on applying new skills to study air quality and cumulative impacts to assist EJ movements in Minneapolis including the [Roof Depot Struggle](https://www.epnifarm.org/about), the [Shut Smith Coalition](https://sahanjournal.com/climate-environment/mpca-epa-smith-foundry-minneapolis-scrambled-response/), and "[SpikeAlerts](https://spikealerts.github.io/Website/)" - a loose collective working toward a free and open-sourced alert system for community air monitoring projects.
 
 --- 
 

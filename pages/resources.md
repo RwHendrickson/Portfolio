@@ -49,13 +49,17 @@ Here's a zipped example project with Minneapolis air quality information
 
 Download Links | [Google Drive](https://drive.google.com/file/d/1hTJPdHBZvlGzeV4SW1_Wjq510sPECQJp/view?usp=sharing) | [Proton Drive](https://drive.proton.me/urls/0BCYR41BWR#9K6P43vVePTT) | 2.7 MB Uncompressed |
 
+[Organic Maps](https://organicmaps.app/) - Google Maps alternative (works offline - public transit routing is still rough)
+
+[StreetComplete](https://streetcomplete.app/) - Gamified [OpenStreetMap](https://www.openstreetmap.org) editor
+
+[Mapeo](https://www.digital-democracy.org/mapeo) - Tools for collecting and mapping information
+
 [Inkscape](https://inkscape.org/) - Adobe Illustrator Alternative
 
 [Caltopo](https://caltopo.com/map.html) - Topographical Mapmaker (Free but not Open-Source)
 
 [Terrastories](https://terrastories.app/) - Storytelling with Maps
-
-[Mapeo](https://www.digital-democracy.org/mapeo) - Tools for collecting and mapping information
 
 [TeXstudio](https://www.texstudio.org/) - LaTeX editor
 
@@ -78,4 +82,4 @@ Download Links | [Google Drive](https://drive.google.com/file/d/1hTJPdHBZvlGzeV4
 
 [Southside Green Zone Workplan](https://lims.minneapolismn.gov/Download/RCAV2/18349/SSGZ-Work-Plan-Report-Final.pdf)
 
-[Minneapolis Air Quality LinkTree](https://linktr.ee/minneapolis_airquality)
+<!-- [Minneapolis Air Quality LinkTree](https://linktr.ee/minneapolis_airquality) -->

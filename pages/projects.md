@@ -9,13 +9,22 @@ title: Projects
 
 <!-- Community Air Monitoring -->
 <details>
-<summary><h2>Community Air Monitoring</h2>
+<summary><h2>SpikeAlerts</h2>
 </summary>
 
 <h3>Quick Description</h3>
 
-Currently working on a project to create a text alert system for air quality in Minneapolis (<a href="https://SpikeAlerts.github.io/Website" style = "color: Blue" target="_blank">Website</a>). This project will remain free and open-source and will include code to acquire, analyze, and visualize the data from the City of Minneapolis' <a href="https://www.minneapolismn.gov/government/programs-initiatives/environmental-programs/air-quality/" target="_blank">Community Air Monitoring Project</a>.
+Currently managing a project to create a text alert and community reporting system for air quality in Minneapolis. This project will remain free and open-source and will include code to acquire, analyze, and visualize the data from the City of Minneapolis' <a href="https://www.minneapolismn.gov/government/programs-initiatives/environmental-programs/air-quality/" target="_blank">Community Air Monitoring Project</a>.
+
 <br><br>
+
+<center>
+<h3> 
+<a href="https://SpikeAlerts.github.io/Website" style = "color: Blue" target="_blank">Website</a>&emsp;&emsp;
+</h3> 
+</center>
+
+<br>
 <!--
 <center>
 <h3> 
@@ -31,9 +40,32 @@ Currently working on a project to create a text alert system for air quality in 
 
 </details>
 
+<!-- Mapping Green Zones -->
+<!--<details>
+<summary><h2>Mapping Green Zones</h2>
+</summary>
+
+<h3>One Sentence Description</h3>
+
+Create an interactive web site that promotes environmental justice and highlights the characteristics of the protected municipal <a href="https://www2.minneapolismn.gov/government/departments/health/environmental-programs/sustainability/green-zones/">Green Zones</a> in Minneapolis.
+
+<center>
+<h3> 
+<a href="https://rwhendrickson.github.io/MappingGZ/MVP_2" class="btn" style = "color: Blue">Map</a>
+<a href="https://github.com/RwHendrickson/MappingGZ" class="btn" style = "color: Blue">Repository</a> 
+</h3>
+</center>
+
+<hr><hr><hr>
+
+</details>-->
+
+<h1><b>Past Projects</b></h1>
+
 <!-- Env Hazards in Mpls -->
+
 <details>
-<summary><h2>Cumulative Impacts (TABLED)</h2>
+<summary><h2>Cumulative Impacts in Minneapolis (Air Quality)</h2>
 </summary>
 <!-- <br><br> -->
 
@@ -88,27 +120,8 @@ It is understood that some parts of Minneapolis experience a greater burden of e
 <hr><hr><hr>
 </details>
 
-<!-- Mapping Green Zones -->
-<!--<details>
-<summary><h2>Mapping Green Zones</h2>
-</summary>
 
-<h3>One Sentence Description</h3>
 
-Create an interactive web site that promotes environmental justice and highlights the characteristics of the protected municipal <a href="https://www2.minneapolismn.gov/government/departments/health/environmental-programs/sustainability/green-zones/">Green Zones</a> in Minneapolis.
-
-<center>
-<h3> 
-<a href="https://rwhendrickson.github.io/MappingGZ/MVP_2" class="btn" style = "color: Blue">Map</a>
-<a href="https://github.com/RwHendrickson/MappingGZ" class="btn" style = "color: Blue">Repository</a> 
-</h3>
-</center>
-
-<hr><hr><hr>
-
-</details>-->
-
-<h1><b>Past Projects</b></h1>
 <!-- Mobility -->
 <details>
 <summary><h2>Twin Cities Mobility & Pollutants</h2>

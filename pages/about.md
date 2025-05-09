@@ -25,7 +25,7 @@ title: About
 <hr>
 
 <h1><b>About</b></h1>
-I am a **geospatial computational scientist** and **general laborer** currently based in Minneapolis. Aside from my professional life, I wear many other hats as a voting member of the <a href="https://www2.minneapolismn.gov/government/departments/health/sustainability-homes-environment/sustainability/green-zones/">South Side Green Zone Council</a> and volunteer with the East Phillips Health Team (<a href="https://www.instagram.com/eastphillipshealth/">Instagram</a>). I also recently completed a term as a visiting instructor at Macalester College (Fall 2024).
+I am a **geospatial computational scientist** and **landscape gardener** currently based in Minneapolis. Aside from my professional life, I wear many other hats as a voting member of the <a href="https://www2.minneapolismn.gov/government/departments/health/sustainability-homes-environment/sustainability/green-zones/">South Side Green Zone Council</a> and volunteer with the East Phillips Health Team (<a href="https://www.instagram.com/eastphillipshealth/">Instagram</a>). I also recently completed a term as a visiting instructor at Macalester College (Fall 2024).
 
 With two degrees from the University of Minnesota – Twin Cities (B.S. in Mathematics, Masters in Geographic Information Science), I’ve always enjoyed studying new mathematical concepts and numerical methodologies. What interests me the most, however, is taking these abstract ideas and applying them to the modern day.
 

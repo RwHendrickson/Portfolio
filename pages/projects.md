@@ -9,18 +9,19 @@ title: Projects
 
 <!-- Community Air Monitoring -->
 <details>
-<summary><h2>SpikeAlerts</h2>
+<summary><h2>SankofaPOWER</h2>
 </summary>
 
 <h3>Quick Description</h3>
 
-Currently managing a project to create a text alert and community reporting system for air quality in Minneapolis. This project will remain free and open-source and will include code to acquire, analyze, and visualize the data from the City of Minneapolis' <a href="https://www.minneapolismn.gov/government/programs-initiatives/environmental-programs/air-quality/" target="_blank">Community Air Monitoring Project</a>.
+Currently helping to map out an exciting new vision and toolkit for our local food ecosystem in Minneapolis and beyond. 
 
 <br><br>
 
 <center>
 <h3> 
-<a href="https://SpikeAlerts.github.io/Website" style = "color: Blue" target="_blank">Website</a>&emsp;&emsp;
+<a href="https://www.sankofapower.org/" style = "color: Blue" target="_blank">Website</a>&emsp;&emsp;
+<a href="https://github.com/RwHendrickson/SankofaClass" style = "color: Blue" target="_blank">GIS Curriculum</a>
 </h3> 
 </center>
 
@@ -61,6 +62,39 @@ Create an interactive web site that promotes environmental justice and highlight
 </details>-->
 
 <h1><b>Past Projects</b></h1>
+
+<!-- Community Air Monitoring -->
+
+<details>
+<summary><h2>SpikeAlerts</h2>
+</summary>
+
+<h3>Quick Description</h3>
+
+Managed a project to create an open-source text alert and community reporting system for connected to the City of Minneapolis' <a href="https://www.minneapolismn.gov/government/programs-initiatives/environmental-programs/air-quality/" target="_blank">Community Air Monitoring Project</a>. This project is tabled for the moment, but we would be happy to meet with folks to continue this work! 
+<br><br>
+
+<center>
+<h3> 
+<a href="https://SpikeAlerts.github.io/Website" style = "color: Blue" target="_blank">Website</a>&emsp;&emsp;
+</h3> 
+</center>
+
+<br>
+<!--
+<center>
+<h3> 
+<a href="https://github.com/SpikeAlerts/SpikeAlerts_Heroku" style = "color: Blue" target="_blank">SpikeAlerts for Heroku</a>&emsp;&emsp;
+<a href="https://github.com/SpikeAlerts/AQ_SpikeAlerts" style = "color: Blue" target="_blank">SpikeAlerts Development</a>
+
+<a href="https://github.com/RwHendrickson/Community_Air_Monitoring" style = "color: Blue" target="_blank">Repository - Data Pipelines</a>
+</h3>
+</center>
+-->
+
+<hr><hr><hr>
+
+</details>
 
 <!-- Env Hazards in Mpls -->
 

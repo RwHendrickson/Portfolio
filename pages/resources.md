@@ -17,7 +17,7 @@ title: Resources
 
 [Minneapolis Pollution Map](https://rwhendrickson.github.io/Community_Air_Monitoring/Notebooks/3_Web_Map/MVP) - Light weight webmap for exploring pollution data in Minneapolis
 
-[Twin Cities EJ Atlas](https://www.arcgis.com/apps/webappviewer/index.html?id=bf1f1da0402f49cd81ae0c10398af822) - Contextual info on Environmental Justice in the Twin Cities
+<!--[Twin Cities EJ Atlas](https://www.arcgis.com/apps/webappviewer/index.html?id=bf1f1da0402f49cd81ae0c10398af822) - Contextual info on Environmental Justice in the Twin Cities-->
 
 ---
 

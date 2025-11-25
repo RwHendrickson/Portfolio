@@ -9,7 +9,7 @@ title: About
     <br>
     My name is Rob (he/him)
     <br><br>
-    Geospatial Analyst & Developer | Communicator | Writer
+    Geospatial Analyst & Developer | Communicator | Gardener
     <br>
     <br>
     <a href="https://www.linkedin.com/in/~rwhendrickson" target="_blank">
@@ -25,11 +25,11 @@ title: About
 <hr>
 
 <h1><b>About</b></h1>
-I am a **geospatial computational scientist** and **landscape gardener** currently based in Minneapolis. Aside from my professional life, I wear many other hats as a voting member of the <a href="https://www2.minneapolismn.gov/government/departments/health/sustainability-homes-environment/sustainability/green-zones/">South Side Green Zone Council</a> and volunteer with the East Phillips Health Team (<a href="https://www.instagram.com/eastphillipshealth/">Instagram</a>). I also recently completed a term as a visiting instructor at Macalester College (Fall 2024).
+I am a **geospatial computational scientist** and **landscape gardener** currently based in Minneapolis. Aside from my professional life, I wear many other hats as a voting member of the <a href="https://www2.minneapolismn.gov/government/departments/health/sustainability-homes-environment/sustainability/green-zones/">South Side Green Zone Council</a> and volunteer with the East Phillips Health Team (<a href="https://www.instagram.com/eastphillipshealth/">Instagram</a>).
 
 With two degrees from the University of Minnesota – Twin Cities (B.S. in Mathematics, Masters in Geographic Information Science), I’ve always enjoyed studying new mathematical concepts and numerical methodologies. What interests me the most, however, is taking these abstract ideas and applying them to the modern day.
 
-Recently, I’ve been focused on mitigating harm from air pollution in the Twin Cities Metro but have also taken part in projects related to ecology, stormwater management, transportation, economics, and demography (a few examples are posted in the <a href="./projects">Projects</a> page).
+Recently, I’ve been focused on sustainable food systems in the Twin Cities Metro but have also taken part in projects related to air quality, ecology, stormwater management, transportation, economics, and demography (a few examples are posted in the <a href="./projects">Projects</a> page).
 
 My research interests include: historic and contemporary barriers to racial equity; spatio-temporal modeling; and consequences of climate change. I am also passionate about community education and procedural justice in decision making.
 <br><br>
@@ -54,6 +54,8 @@ After 15 months of work-traveling as a farm hand, arborist's assistant, and gene
 These experiences led me to the University of Minnesota's <a href="https://cla.umn.edu/mgis/about/program-thats-map">Masters of Geographic Information Science (MGIS)</a> program, which I graduated from in the Spring of 2023.
 
 Throughout and immediately after my degree, I focused on applying new skills to study air quality and cumulative impacts to assist EJ movements in Minneapolis including the [Roof Depot Struggle](https://www.epnifarm.org/about), the [Shut Smith Coalition](https://sahanjournal.com/climate-environment/mpca-epa-smith-foundry-minneapolis-scrambled-response/), and "[SpikeAlerts](https://spikealerts.github.io/Website/)" - a loose collective working toward a free and open-sourced alert system for community air monitoring projects.
+
+I've had a number of temporary positions since graduating including: instructor positions with Macalester College and Global Learning Alliance; open-source development with the City of Minneapolis and the [SankofaPOWER](https://www.sankofapower.org/) initiative; and computational research with Professor [Xavier Haro-Carrión](https://www.macalester.edu/geography/facultystaff/xavier-haro-carrion/). Throughout this time I've also worked as a freelance landscape gardener to make ends meet.
 
 --- 
 
